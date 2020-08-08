@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://username-k.GitHub.io</id>
     <title>Karl Lee</title>
-    <updated>2020-08-07T12:26:14.695Z</updated>
+    <updated>2020-08-08T10:26:32.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://username-k.GitHub.io"/>
     <link rel="self" href="https://username-k.GitHub.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://username-k.GitHub.io/images/avatar.png</logo>
     <icon>https://username-k.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Karl Lee</rights>
+    <entry>
+        <title type="html"><![CDATA[你好👋，我是Karl]]></title>
+        <id>https://username-k.GitHub.io/ni-hao-wo-shi-karl/</id>
+        <link href="https://username-k.GitHub.io/ni-hao-wo-shi-karl/">
+        </link>
+        <updated>2020-08-08T10:17:08.000Z</updated>
+    </entry>
 </feed>
